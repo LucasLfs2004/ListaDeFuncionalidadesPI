@@ -1,6 +1,6 @@
 # Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
-# Lista de Funcionalidades - E-Commerc de Informática
+## Lista de Funcionalidades - E-Commerc de Informática
 
 ### - Login ou cadastro
 ### - Perfil
